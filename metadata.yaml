@@ -1,5 +1,8 @@
 _repo: Stained-Glass-Windows-An-Essay-With-a-Report-to-the-Vestry-on-Stained-Glass-Windows-for-Grace__66766
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66766-h/images/cover.jpg
 creator:
   author:
     agent_name: Faber, William Frederic
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53948
     wikipedia: https://en.wikipedia.org/wiki/William_F._Faber_(bishop)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66766#Stained-Glass-Windows-An-Essay-With-a-Report-to-the-Vestry-on-Stained-Glass-Windows-for-Grace_
 gutenberg_issued: '2021-11-18'
 identifiers:
   gutenberg: '66766'
